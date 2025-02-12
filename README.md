@@ -2,4 +2,4 @@
 
 Repository used as storage for most commonly used GeoJSON files used for testing purposes during BR-UTM development.
 
-- ** SBR-497 **: Brazilian airspace reserved for unmanned aircrafts testing.
+- **SBR-497**: Brazilian airspace reserved for unmanned aircrafts testing.
